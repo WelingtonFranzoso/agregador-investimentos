@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Franzoso agregador de investimento é uma aplicação back end, sendo uma aplicação REST para realizar CRUD de usuario, contas e ações da bolsa, com uso de DTOs. Testes em JUnit5 e usando o Open Feign para consumir a API da Brapi para retornar os valores ações em tempo real. O banco de dados utilizado foi o MySQL em um container Docker.
+Franzoso agregador de investimento é uma aplicação back-end, sendo uma aplicação REST para realizar CRUD de usuário, contas e ações da bolsa, com uso de DTO. Testes em JUnit5 e usando o Open Feign para consumir a API da Brapi para retornar os valores ações em tempo real. O banco de dados utilizado foi o MySQL em um container Docker.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/WelingtonFranzoso/franzoso-agregador-de-investimentos/blob/main/assets/modelo-conceitual.png?raw=true)
