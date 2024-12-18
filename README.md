@@ -34,11 +34,11 @@ A API utiliza JUnit 5 para testes automatizados e OpenFeign para consumir dados 
 # Como executar o projeto
 
 ## Back end
-###Pré-requisitos: 
-Java 17
-Maven
-Docker
-MySQL
+### Pré-requisitos: 
+- Java 17
+- Maven
+- Docker
+- MySQL
 
 ```bash
 # clonar repositório
