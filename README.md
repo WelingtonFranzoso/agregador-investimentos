@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Franzoso Agregador de Investimentos é uma aplicação backend que oferece uma API REST para realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) de usuários, contas e ações da bolsa de valores. A aplicação faz uso de DTOs (Data Transfer Objects) para gerenciar dados de forma eficiente e segura.
+Franzoso Agregador de Investimentos é uma aplicação backend que oferece uma API REST para realizar operações de CRUD de usuários, contas e ações da bolsa de valores. A aplicação faz uso de DTOs para gerenciar dados de forma eficiente e segura.
 
 A API utiliza JUnit 5 para testes automatizados e OpenFeign para consumir dados em tempo real da API Brapi, fornecendo informações atualizadas sobre as ações da bolsa. O banco de dados utilizado é o MySQL, executado em um container Docker para facilitar o ambiente de desenvolvimento.
 
